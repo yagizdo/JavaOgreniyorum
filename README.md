@@ -1,4 +1,4 @@
-# Java Learning
+# Java Beginner Projects
 
 ## TR 
 Java öğrenirken yaptığım projeler açıklamaları ile burda yer alacak.
